@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # --- Get API URL from environment ---
-API_URL = os.environ.get("API_URL", "http://localhost:8000")
+API_URL = os.environ.get("API_URL", "https://shl-backend-xvq9.onrender.com")
 
 # --- Custom CSS for Styling ---
 st.markdown("""
@@ -452,4 +452,5 @@ with st.sidebar:
     - Check API connection
     - Verify backend status
     - Review error messages
+
     """)
