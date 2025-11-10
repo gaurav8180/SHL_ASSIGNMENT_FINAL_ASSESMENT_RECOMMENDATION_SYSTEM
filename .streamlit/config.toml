@@ -1,0 +1,14 @@
+[theme]
+primaryColor = "#5B8DEF"
+backgroundColor = "#0C1222"
+secondaryBackgroundColor = "#121A2E"
+textColor = "#E6EDF7"
+font = "sans serif"
+
+[theme]
+primaryColor = "#7C3AED"
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#111827"
+textColor = "#F9FAFB"
+font = "sans serif"
+
